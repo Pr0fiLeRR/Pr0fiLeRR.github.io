@@ -1,5 +1,3 @@
-## This is the project for school. There are many of pages created by me but many of them are almost the same, changing only few functionalities.
-You can access here in this link: https://cyberlab-overflow.github.io/
+<h2>This is a [project](https://Pr0fiLeRR.github.io/) for BYU-Idaho. There are many of pages created by me with only few functionalities changed among them.</h2>
 
-## PS. The one on Week 11 is more complete. link below:
-https://cyberlab-overflow.github.io/lesson11/preston.html
+- PS. The one on [Week 11](https://Pr0fiLeRR.github.io/lesson11/preston.html) is the most complete version.
